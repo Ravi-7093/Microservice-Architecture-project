@@ -1,0 +1,9 @@
+# Application properties
+**/application.properties
+
+# Docker files
+Dockerfile
+**/docker-compose.yml
+*.dockerignore
+
+.idea
